@@ -1,7 +1,6 @@
-package day6_01;
+package day6_2;
 
-public class test_01 {
-
+public class day6_01 {
     public static void main(String[] args) {
 
         // 감자도리를 50번 출력하세요.
@@ -11,5 +10,4 @@ public class test_01 {
         }
 
     }
-
 }
